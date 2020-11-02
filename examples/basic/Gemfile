@@ -1,2 +1,4 @@
-gem 'flipt-grpc', :git => 'https://github.com/markphelps/flipt-grpc-ruby', :branch => 'master'
+source "https://rubygems.org"
+
+gem 'flipt-grpc', :git => 'https://github.com/darwin67/flipt-grpc-ruby.git', ref: 'f3375cd'
 gem 'grpc', '~> 1.0'

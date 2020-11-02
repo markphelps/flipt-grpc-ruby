@@ -7,3 +7,5 @@
 /spec/reports/
 /tmp/
 *.gem
+
+Gemfile.lock # A library shouldn't check-in the lockfile
